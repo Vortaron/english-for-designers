@@ -1,8 +1,8 @@
 ## videogames
 
 - [Rough draft](index.md)
-- [First Draft]()
-- [Revisition]()
-- [Edit]()
+- [First Draft](first-draft.md)
+- [Revisition](revisition.md)
+- [Edit](edit.md)
 
 lorem ipsum
