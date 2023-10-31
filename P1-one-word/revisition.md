@@ -1,3 +1,5 @@
+## **Videogames** // revisition
+
 Hook / Thesis statment / My supporting points / Conclusion / Takeaway - X
 
 The word I've chosen is "videogames." Even though this word is a general term or an umbrella term, it has had a massive impact on my life. When you talk about videogames, it takes me back to those days when I was at home, playing on my father's old PC and PlayStation 1 with my friends. It truly brought us closer and created unforgettable memories.
