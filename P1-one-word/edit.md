@@ -6,3 +6,10 @@ Luckily, I grew up in a time when the internet was developed well enough, that i
 Today, even though not all my friends play these games anymore and consider them a waste of time, I can't deny their significant impact on my life. Video games are the reason I do what I do today. They inspired me to start working in the visual and creative field, and they still inspire me to this day. For instance, I still love League of Legends, and I currently dream of getting involved in a project related to their brand. Thanks to videogames, I wrote a 100 page thesis last year on game development and even came up with my own concept for a historical narrative video game.
 This year, I'm working on my bachelor's thesis about redesigning the Czechoslovak esports league in League of Legends, all because of my strong connection to video games. Games have always offered me a wide range of experiences, whether it's unforgettable single-player stories that I believe I'll remember for the rest of my life, the creative outlet of building in Minecraft, the motivation to be competitive and collaborate with friends to win in a competitive game, or simply being a fan of my favorite team in my beloved game, feeling the excitement when they win and the sadness when they lose.
 All these experiences give me motivation and hope that someday I, too, will have the chance to work in such an environment and contribute to something that has given me so much and means everything to me.
+
+-----------------------------------------------------
+
+- [First Draft](first-draft.md)
+- [Revisition](revisition.md)
+- [Edit](edit.md)
+- [Final draft](index.md)
