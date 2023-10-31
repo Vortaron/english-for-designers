@@ -10,3 +10,10 @@ All these experiences give me motivation and hope that someday I, too, will have
 My engagement rating = 3/5
 
 Takeaway = Videogames had a good and meaningful impact on my life and on my career both in relationship fiedl and career field.
+
+-----------------------------------------------------
+
+- [First Draft](first-draft.md)
+- [Revisition](revisition.md)
+- [Edit](edit.md)
+- [Final draft](index.md)
