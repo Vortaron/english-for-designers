@@ -1,7 +1,5 @@
 # Videogames: A Personal Journey // final draft
 
-![DALL·E 2023-11-07 10 29 58 - An illustrative image depicting the personal journey of an individual with videogames  In the center, a child sitting cross-legged on the floor, immer](https://github.com/Vortaron/english-for-designers/assets/48156360/fb55aaa7-b4e4-46b7-8d64-9707a0409043)
-
 ## Introduction: The Role of Videogames in My Life
 The term "videogames" encompasses more than just a pastime for me—it signifies a profound influence on my formative years. From shared experiences with friends on vintage consoles to solo adventures that captivated my imagination, videogames have been pivotal in shaping my social connections and creative aspirations.
 
@@ -14,6 +12,7 @@ The impact of video games extended beyond leisure, guiding my educational and ca
 ## Future Goals: Shaping the Gaming World
 As I continue to immerse myself in the world of gaming, my aspirations have only become more focused. I aim to contribute to the gaming industry, not just as a participant, but as a creator and innovator, driven by the same passion that began in childhood.
 
+![...](https://github.com/Vortaron/english-for-designers/assets/48156360/fb55aaa7-b4e4-46b7-8d64-9707a0409043)
 
 
 -----------------------------------------------------
