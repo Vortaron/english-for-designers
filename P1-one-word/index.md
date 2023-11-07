@@ -12,7 +12,7 @@ The impact of video games extended beyond leisure, guiding my educational and ca
 ## Future Goals: Shaping the Gaming World
 As I continue to immerse myself in the world of gaming, my aspirations have only become more focused. I aim to contribute to the gaming industry, not just as a participant, but as a creator and innovator, driven by the same passion that began in childhood.
 
-![...](https://github.com/Vortaron/english-for-designers/assets/48156360/fb55aaa7-b4e4-46b7-8d64-9707a0409043)
+![Sentimental journey of a child, engrossed in a vintage video game consoles.](https://github.com/Vortaron/english-for-designers/assets/48156360/fb55aaa7-b4e4-46b7-8d64-9707a0409043)
 
 
 -----------------------------------------------------
