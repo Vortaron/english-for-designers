@@ -1,6 +1,4 @@
-## **Videogames** // final draft
-
-# The Impact of Videogames on My Life
+# The Impact of Videogames on My Life // final draft
 
 ## Introduction: The Significance of Videogames
 The word I've chosen is "videogames." This general term represents a significant aspect of my personal development. From early childhood experiences on my dad's old computer and PlayStation 1 to creating lifelong memories with friends, video games have been a central part of my life.
