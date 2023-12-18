@@ -1,6 +1,36 @@
-# Presentation about me
+# Presentation: ME, MYLSELF AND I
+
+gaming enthusiast with a passionate approach to design and illustration
 
 
+## About me
+
+I am a passionate graphic designer and creative who is always thinking of new ideas and challenges. My interests include art, culture, games, music and deep science concepts, especially science fiction. My dream is to one day bring something unique and innovative to the design world.
+
+![gigachad](https://github.com/Vortaron/english-for-designers/assets/48156360/77707701-5167-4fb9-a716-c5fc60f075d9)
+
+## Progrmas & Skills:
+
+Affinity: 100%
+Illustrator 100%
+Photoshop: 100%
+Lightroom: 75%
+After Effects: 50%
+Premiere: 50%
+Maya: 25%
+BLender: 25%
+
+## International Music festival Kutná Hora
+
+## International Music festival Kutná Hora
+
+## International Music festival Kutná Hora
+
+## International Music festival Kutná Hora
+
+## International Music festival Kutná Hora
+
+## International Music festival Kutná Hora
 
 
 # Videogames: A Personal Journey // final draft
