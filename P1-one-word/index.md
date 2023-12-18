@@ -28,9 +28,14 @@ BLender: 25%
 
 ## Campaign: (un)safe
 
-## International Music festival Kutná Hora
+## STORYBOARDS FOR ANIMALS
 
-## International Music festival Kutná Hora
+## DIGITAL ART: ARTWORK
+
+## DIGITAL ART:STUDIES
+
+## PRODUCT PHOTOGRAPHY
+
 
 
 # Videogames: A Personal Journey // final draft
