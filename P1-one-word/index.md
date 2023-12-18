@@ -20,13 +20,13 @@ Premiere: 50%
 Maya: 25%
 BLender: 25%
 
-## International Music festival Kutná Hora
+## GAME DESIGN pilots 303
 
 ## International Music festival Kutná Hora
 
-## International Music festival Kutná Hora
+## campaign: don't plasticise
 
-## International Music festival Kutná Hora
+## Campaign: (un)safe
 
 ## International Music festival Kutná Hora
 
