@@ -1,3 +1,8 @@
+# Presentation about me
+
+
+
+
 # Videogames: A Personal Journey // final draft
 
 ## Introduction: The Role of Videogames in My Life
