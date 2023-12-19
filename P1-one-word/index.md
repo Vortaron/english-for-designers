@@ -5,9 +5,10 @@ gaming enthusiast with a passionate approach to design and illustration
 
 ## About me
 
-I am a passionate graphic designer and creative who is always thinking of new ideas and challenges. My interests include art, culture, games, music and deep science concepts, especially science fiction. My dream is to one day bring something unique and innovative to the design world.
+Hi! I am a passionate graphic designer and creative who is always thinking of new ideas and challenges. My interests include art, culture, games, music and deep science concepts, especially science fiction. My dream is to one day bring something unique and innovative to the design world.
 
-![gigachad](https://github.com/Vortaron/english-for-designers/assets/48156360/77707701-5167-4fb9-a716-c5fc60f075d9)
+![me as Michal Plecháč](https://github.com/Vortaron/english-for-designers/assets/48156360/dcb76d14-8f48-4ecf-95a1-9ecf265e7434)
+
 
 ## Progrmas & Skills:
 
@@ -20,7 +21,19 @@ Premiere: 50%
 Maya: 25%
 BLender: 25%
 
-## GAME DESIGN pilots 303
+## My passion projetct: Pilots 303 (the gane)
+
+### Historical Accuracy vs. Fun
+
+![slide-game-project-1](https://github.com/Vortaron/english-for-designers/assets/48156360/3f1b7a1a-2652-4d50-9b83-7d9f9f5b6fbd)
+
+### Creating World of War 
+
+![slide-game-project-2](https://github.com/Vortaron/english-for-designers/assets/48156360/9aad11b2-8085-496c-bdbe-8388987c9707)
+
+### Recruiting
+
+![slide-game-project-3](https://github.com/Vortaron/english-for-designers/assets/48156360/b3b15e10-d5fa-41c3-8882-9a5bf289467e)
 
 ## International Music festival Kutná Hora
 
