@@ -1,9 +1,10 @@
 # Oh, hi Mark
+
+![me as Michal Plecháč](https://github.com/Vortaron/english-for-designers/assets/48156360/dcb76d14-8f48-4ecf-95a1-9ecf265e7434)
+
 ### Profesional side of me
 
 Hi! I am a passionate graphic designer and creative who is always thinking of new ideas and challenges. My interests include art, culture, games, music and deep science concepts, especially science fiction. My dream is to one day bring something unique and innovative to the design world.
-
-![me as Michal Plecháč](https://github.com/Vortaron/english-for-designers/assets/48156360/dcb76d14-8f48-4ecf-95a1-9ecf265e7434)
 
 ### Me as a person with feelings & stuff
 
