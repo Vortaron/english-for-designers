@@ -1,18 +1,14 @@
-# Presentation: ME, MYLSELF AND I
+# Oh, hi Mark
 
-gaming enthusiast with a passionate approach to design and illustration
-
-
-## About me
+## Profesional side of me
 
 Hi! I am a passionate graphic designer and creative who is always thinking of new ideas and challenges. My interests include art, culture, games, music and deep science concepts, especially science fiction. My dream is to one day bring something unique and innovative to the design world.
 
 ![me as Michal Plecháč](https://github.com/Vortaron/english-for-designers/assets/48156360/dcb76d14-8f48-4ecf-95a1-9ecf265e7434)
 
+## Me as a person
 
-## Progrmas & Skills:
-
-Affinity: 100%, Illustrator 100%, Photoshop: 100%, Lightroom: 75%, After Effects: 50%, Premiere: 50%, Maya: 25%, BLender: 25%
+Hi again, I am a weird person, but I consider it a good thing. I like to think about stuff, I really like space and sci-fi - I just really like cool ideas, even if they are not portrait that well. I really like popculture, games and artitic human creations. I became interested in psychology and how brain and people work. I am very axnious person and I like ordet in things and I am nervous when there is none (at least for some period time). I am consider myself very passionate about anything I am interested and I am enyoing learning about stuff. I get vey obscessive about 1 think I often forget about other things. But sometimes too much thinking is unhealthy and exxhausting, so nowdays I am trying to learn to also stay in the moment and enjoy life.
 
 ## My passion projetct: Pilots 303 (the gane)
 
@@ -20,13 +16,27 @@ Affinity: 100%, Illustrator 100%, Photoshop: 100%, Lightroom: 75%, After Effects
 
 ![slide-game-project-1](https://github.com/Vortaron/english-for-designers/assets/48156360/3f1b7a1a-2652-4d50-9b83-7d9f9f5b6fbd)
 
+* wanted to create something else, but history is cool
+* project from english school of czech language
+* diving into world of RAF
+* struggeling with story and accuary
+
 ### Creating World of War 
 
 ![slide-game-project-2](https://github.com/Vortaron/english-for-designers/assets/48156360/9aad11b2-8085-496c-bdbe-8388987c9707)
 
+* utilizing power of artifical inteligance for good 
+* realizing I am not gonna finish game completly
+* 100 pages of AAAAAAAAAA
+* finished, finally
+
 ### Recruiting the Soldiers
 
 ![slide-game-project-3](https://github.com/Vortaron/english-for-designers/assets/48156360/b3b15e10-d5fa-41c3-8882-9a5bf289467e)
+
+* visualizing the idea of recruiting players
+* creating 2 posters for 2 showings
+* now lets promote this stuff
 
 ## Abstract world of Music festival Kutná Hora
 
@@ -42,7 +52,7 @@ Affinity: 100%, Illustrator 100%, Photoshop: 100%, Lightroom: 75%, After Effects
 
 ![storyboard](https://github.com/Vortaron/english-for-designers/assets/48156360/87a7262c-98b4-4c92-ade5-cc11b867c79a)
 
-## DRAWING AND PAINTING (mostly in digital)
+## Drawing and Painting (mostly in digital)
 
 ### Pieces I consider Finished
 
@@ -52,7 +62,7 @@ Affinity: 100%, Illustrator 100%, Photoshop: 100%, Lightroom: 75%, After Effects
 
 ![artwork-2](https://github.com/Vortaron/english-for-designers/assets/48156360/988ce7fd-7fb6-4dc0-8d6a-fcdb892d537e)
 
-## PHOTOGRAPHY OF FOOD
+## Photography of food & stuff..
 
 ![photo](https://github.com/Vortaron/english-for-designers/assets/48156360/3b1f8890-0728-4977-9977-c255ceabdcf5)
 
