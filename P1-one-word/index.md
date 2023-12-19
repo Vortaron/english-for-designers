@@ -119,6 +119,8 @@ As a kid in elementary school, I attended a photography course, and I absolutely
 * in shoes of director
 * really fun, but tiring
 
+---------
+
 # THANK YOU for your attention!
 
 ------------------------------------------------------------------
