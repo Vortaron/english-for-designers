@@ -44,9 +44,16 @@ Hi again, I am a weird person, but I consider it a good thing. I like to think a
 
 ![hora-1](https://github.com/Vortaron/english-for-designers/assets/48156360/bb77cc63-ffc6-469f-9e89-a5d5cc93a052)
 
+* foolish idea that I was obscessed with
+* its all about feeing
+* creating effects of light
+* put some gothic style into it!
+
 ### Putting Feeling on Paper and Screen
 
 ![hora-2](https://github.com/Vortaron/english-for-designers/assets/48156360/ca2a035a-45f0-40cc-8c67-6f1c79afe2e9)
+
+* 
 
 ## Animating, because it sounded cool
 
