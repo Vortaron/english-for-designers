@@ -6,11 +6,11 @@ Hi! I am a passionate graphic designer and creative who is always thinking of ne
 
 ![me as Michal Plecháč](https://github.com/Vortaron/english-for-designers/assets/48156360/dcb76d14-8f48-4ecf-95a1-9ecf265e7434)
 
-## Me as a person
+## Me as a person with feelings & stuff
 
-Hi again, I am a weird person, but I consider it a good thing. I like to think about stuff, I really like space and sci-fi - I just really like cool ideas, even if they are not portrait that well. I really like popculture, games and artitic human creations. I became interested in psychology and how brain and people work. I am very axnious person and I like ordet in things and I am nervous when there is none (at least for some period time). I am consider myself very passionate about anything I am interested and I am enyoing learning about stuff. I get vey obscessive about 1 think I often forget about other things. But sometimes too much thinking is unhealthy and exxhausting, so nowdays I am trying to learn to also stay in the moment and enjoy life.
+Hi again, I am a weird person, but I consider it a good thing. I like to think about stuff, I really like space and sci-fi - I just really like cool ideas, even if they are not portrait that well. I really like popculture, games and artitic human creations. I became interested in psychology and how brain and people work. I am very axnious person and I like ordet in things and I am nervous when there is none (at least for some period time). I am consider myself very passionate about anything I am interested and I am enyoing learning about stuff. I get vey obscessive about 1 think I often forget about other things. But sometimes too much thinking is unhealthy and exxhausting, so nowdays I am trying to learn to also stay in the moment and enjoy life. Btw I also like to read (mostly sci-fi tho).
 
-## My passion projetct: Pilots 303 (the gane)
+## My PASSION projetct: Pilots 303 (the gane)
 
 ### Historical Accuracy vs. Fun
 
@@ -53,11 +53,18 @@ Hi again, I am a weird person, but I consider it a good thing. I like to think a
 
 ![hora-2](https://github.com/Vortaron/english-for-designers/assets/48156360/ca2a035a-45f0-40cc-8c67-6f1c79afe2e9)
 
-* 
+* finding cool fonts fot my idea
+* creating system
+* presenting for imporant people
 
 ## Animating, because it sounded cool
 
 ![storyboard](https://github.com/Vortaron/english-for-designers/assets/48156360/87a7262c-98b4-4c92-ade5-cc11b867c79a)
+
+* wanted create something really cool!
+* how the hell animation works
+* make it easy (for me)
+* spending whole christmas drawing
 
 ## Drawing and Painting (mostly in digital)
 
@@ -65,17 +72,31 @@ Hi again, I am a weird person, but I consider it a good thing. I like to think a
 
 ![artwork-1](https://github.com/Vortaron/english-for-designers/assets/48156360/b736cafe-7131-4167-8b06-8b69e6e4799e)
 
+* fanarts of stuff I like and love
+* challenging myself
+* stye > realism
+* not good enough for my liking
+
 ### Pieces I consider NOT Finished
 
 ![artwork-2](https://github.com/Vortaron/english-for-designers/assets/48156360/988ce7fd-7fb6-4dc0-8d6a-fcdb892d537e)
+
+* I like to train, but I am not doing it tho
+* people, te hardest, but the most fun
+* grayscale is my friend
 
 ## Photography of food & stuff..
 
 ![photo](https://github.com/Vortaron/english-for-designers/assets/48156360/3b1f8890-0728-4977-9977-c255ceabdcf5)
 
+* they asked me to do it, so I did
+* utilizing my childhood dreams
+* in shoes of director
+* really fun, but tiring
 
+------------------------------------------------------------------
 
-# Videogames: A Personal Journey // final draft
+# One Word Essay Videogames // final draft
 
 ## Introduction: The Role of Videogames in My Life
 The term "videogames" encompasses more than just a pastime for me—it signifies a profound influence on my formative years. From shared experiences with friends on vintage consoles to solo adventures that captivated my imagination, videogames have been pivotal in shaping my social connections and creative aspirations.
@@ -90,7 +111,6 @@ The impact of video games extended beyond leisure, guiding my educational and ca
 As I continue to immerse myself in the world of gaming, my aspirations have only become more focused. I aim to contribute to the gaming industry, not just as a participant, but as a creator and innovator, driven by the same passion that began in childhood.
 
 ![Sentimental journey of a child, engrossed in a sequence of evolving consoles spiraling around them.](https://github.com/Vortaron/english-for-designers/assets/48156360/fb55aaa7-b4e4-46b7-8d64-9707a0409043)
-
 
 -----------------------------------------------------
 
