@@ -1,14 +1,29 @@
 # Oh, hi Mark
-
-## Profesional side of me
+### Profesional side of me
 
 Hi! I am a passionate graphic designer and creative who is always thinking of new ideas and challenges. My interests include art, culture, games, music and deep science concepts, especially science fiction. My dream is to one day bring something unique and innovative to the design world.
 
 ![me as Michal Plecháč](https://github.com/Vortaron/english-for-designers/assets/48156360/dcb76d14-8f48-4ecf-95a1-9ecf265e7434)
 
-## Me as a person with feelings & stuff
+### Me as a person with feelings & stuff
 
 Hi again, I am a weird person, but I consider it a good thing. I like to think about stuff, I really like space and sci-fi - I just really like cool ideas, even if they are not portrait that well. I really like popculture, games and artitic human creations. I became interested in psychology and how brain and people work. I am very axnious person and I like ordet in things and I am nervous when there is none (at least for some period time). I am consider myself very passionate about anything I am interested and I am enyoing learning about stuff. I get vey obscessive about 1 think I often forget about other things. But sometimes too much thinking is unhealthy and exxhausting, so nowdays I am trying to learn to also stay in the moment and enjoy life. Btw I also like to read (mostly sci-fi tho).
+
+### Content:
+
+- [**Profesional side of me**](https://stolgeth.github.io/english-for-designers/about_me.html#about-me)
+
+- [**Me as a person with feelings & stuff**](https://stolgeth.github.io/english-for-designers/about_me.html#what-usually-i-get-paid-for)
+
+- [**My PASSION projetct**](https://stolgeth.github.io/english-for-designers/about_me.html#what-i-enjoy-to-spend-my-time-on)
+
+- [**Abstract world of Music festival Kutná Hora**](https://stolgeth.github.io/english-for-designers/about_me.html#my-origin-story)
+
+- [**Animating, because it sounded cool**](https://stolgeth.github.io/english-for-designers/about_me.html#my-origin-story)
+
+- [**Drawing and Painting (mostly in digital)**](https://stolgeth.github.io/english-for-designers/about_me.html#my-origin-story)
+
+- [**Photography of food & stuff..**](https://stolgeth.github.io/english-for-designers/about_me.html#my-origin-story)
 
 ## My PASSION projetct: Pilots 303 (the gane)
 
