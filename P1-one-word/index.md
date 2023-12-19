@@ -12,14 +12,7 @@ Hi! I am a passionate graphic designer and creative who is always thinking of ne
 
 ## Progrmas & Skills:
 
-Affinity: 100%
-Illustrator 100%
-Photoshop: 100%
-Lightroom: 75%
-After Effects: 50%
-Premiere: 50%
-Maya: 25%
-BLender: 25%
+Affinity: 100%, Illustrator 100%, Photoshop: 100%, Lightroom: 75%, After Effects: 50%, Premiere: 50%, Maya: 25%, BLender: 25%
 
 ## My passion projetct: Pilots 303 (the gane)
 
