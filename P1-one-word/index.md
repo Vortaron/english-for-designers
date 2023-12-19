@@ -31,23 +31,37 @@ BLender: 25%
 
 ![slide-game-project-2](https://github.com/Vortaron/english-for-designers/assets/48156360/9aad11b2-8085-496c-bdbe-8388987c9707)
 
-### Recruiting
+### Recruiting the Soldiers
 
 ![slide-game-project-3](https://github.com/Vortaron/english-for-designers/assets/48156360/b3b15e10-d5fa-41c3-8882-9a5bf289467e)
 
-## International Music festival Kutná Hora
+## Abstract world of Music festival Kutná Hora
 
-## campaign: don't plasticise
+### Creating the Feeling
 
-## Campaign: (un)safe
+![hora-1](https://github.com/Vortaron/english-for-designers/assets/48156360/bb77cc63-ffc6-469f-9e89-a5d5cc93a052)
 
-## STORYBOARDS FOR ANIMALS
+### Putting Feeling on Paper and Screen
 
-## DIGITAL ART: ARTWORK
+![hora-2](https://github.com/Vortaron/english-for-designers/assets/48156360/ca2a035a-45f0-40cc-8c67-6f1c79afe2e9)
 
-## DIGITAL ART:STUDIES
+## Animating, because it sounded cool
 
-## PRODUCT PHOTOGRAPHY
+![storyboard](https://github.com/Vortaron/english-for-designers/assets/48156360/87a7262c-98b4-4c92-ade5-cc11b867c79a)
+
+## DRAWING AND PAINTING (mostly in digital)
+
+### Pieces I consider Finished
+
+![artwork-1](https://github.com/Vortaron/english-for-designers/assets/48156360/b736cafe-7131-4167-8b06-8b69e6e4799e)
+
+### Pieces I consider NOT Finished
+
+![artwork-2](https://github.com/Vortaron/english-for-designers/assets/48156360/988ce7fd-7fb6-4dc0-8d6a-fcdb892d537e)
+
+## PHOTOGRAPHY OF FOOD
+
+![photo](https://github.com/Vortaron/english-for-designers/assets/48156360/3b1f8890-0728-4977-9977-c255ceabdcf5)
 
 
 
