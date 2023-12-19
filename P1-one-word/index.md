@@ -12,6 +12,8 @@ Hi again, I am a weird person, but I consider it a good thing. I like to think a
 
 ## My PASSION projetct: Pilots 303 (the gane)
 
+This project was created as an educational game for English language school with the aim of introduce children to Czech and Polish pilots in the Battle of Britain in 1940. The game offers an attractive form of education that introduces the importance of the Czech and Polish RAF pilots and allows players to experience the important historical events.
+
 ### Historical Accuracy vs. Fun
 
 ![slide-game-project-1](https://github.com/Vortaron/english-for-designers/assets/48156360/3f1b7a1a-2652-4d50-9b83-7d9f9f5b6fbd)
@@ -40,6 +42,8 @@ Hi again, I am a weird person, but I consider it a good thing. I like to think a
 
 ## Abstract world of Music festival Kutná Hora
 
+The International Music Festival Kutná Hora is one of the most important chamber music events in the Czech Republic. The aim was to create a modern visual identity that correctly represents the events of this festival and reach out to new visitors. My visual solution was to connect the atmosphere of the concert with an abstract form of light and sound, conveying the feeling of chamber classical music and gothic buildings in Kutná Hora.
+
 ### Creating the Feeling
 
 ![hora-1](https://github.com/Vortaron/english-for-designers/assets/48156360/bb77cc63-ffc6-469f-9e89-a5d5cc93a052)
@@ -59,6 +63,8 @@ Hi again, I am a weird person, but I consider it a good thing. I like to think a
 
 ## Animating, because it sounded cool
 
+The aim of the exercise was to create a short animation as an invitation to a school Fest Michael festival. I created the animation in the form of a fairy tale about the creation of the festival, presented in the style of a digital puppet theatre. After creating the storyboards, I drew and animated the objects. The resulting animation was then screened at the Lucerna Cinema.
+
 ![storyboard](https://github.com/Vortaron/english-for-designers/assets/48156360/87a7262c-98b4-4c92-ade5-cc11b867c79a)
 
 * wanted create something really cool!
@@ -67,6 +73,8 @@ Hi again, I am a weird person, but I consider it a good thing. I like to think a
 * spending whole christmas drawing
 
 ## Drawing and Painting (mostly in digital)
+
+I started with drawing. Before diving into all this art stuff, I wanted to be a programmer. However, when I attended a programming school, I realized it wasn't really for me. During that time, I also discovered drawing through friends who were passionate about it. So, I became very interested, started drawing, and eventually decided to change my field to art, which then evolved into graphic design.
 
 ### Pieces I consider Finished
 
@@ -86,6 +94,8 @@ Hi again, I am a weird person, but I consider it a good thing. I like to think a
 * grayscale is my friend
 
 ## Photography of food & stuff..
+
+As a kid in elementary school, I attended a photography course, and I absolutely loved itttt. It was awesome, and with a friend of mine, we began dreaming about buying our own cameras. So, we did. We started taking pictures together, mostly of nature and architecture. Eventually, we moved on from it, but it stuck with me, and I found a way to integrate it into my graphic design work.
 
 ![photo](https://github.com/Vortaron/english-for-designers/assets/48156360/3b1f8890-0728-4977-9977-c255ceabdcf5)
 
