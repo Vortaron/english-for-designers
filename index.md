@@ -1,4 +1,4 @@
-# Oh, hi Mark
+# Oh, hi David
 
 ![me as Michal Plecháč](https://github.com/Vortaron/english-for-designers/assets/48156360/dcb76d14-8f48-4ecf-95a1-9ecf265e7434)
 
