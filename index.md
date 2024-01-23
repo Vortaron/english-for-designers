@@ -41,7 +41,7 @@ As a designer, my focus is not explicitly on one thing, but I particularly enjoy
 
 - [**About me as a person**](https://vortaron.github.io/english-for-designers/index.html#about-me-as-a-person) 
 
-- [**# What I enjoy doing**](https://vortaron.github.io/english-for-designers/index.html#-what-i-enjoy-doing)
+- [**What I enjoy doing**](https://vortaron.github.io/english-for-designers/index.html#-what-i-enjoy-doing)
 
 - [**What I do as job**](https://vortaron.github.io/english-for-designers/index.html#what-i-do-as-job)
 
