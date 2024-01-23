@@ -39,7 +39,7 @@ As a designer, my focus is not explicitly on one thing, but I particularly enjoy
 
 ## Content:
 
-- [**About me as a person**](https://stolgeth.github.io/english-for-designers/about_me.html#about-me-as-a-person)
+- [**About me as a person**](https://vortaron.github.io/english-for-designers/index.html#about-me-as-a-person) 
 
 - [**# What I enjoy doing**](https://stolgeth.github.io/english-for-designers/about_me.html#-what-i-enjoy-doing)
 
