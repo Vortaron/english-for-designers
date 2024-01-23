@@ -47,11 +47,15 @@ As a designer, my focus is not explicitly on one thing, but I particularly enjoy
 
 - [**What I usually do**](https://vortaron.github.io/english-for-designers/index.html#what-i-usually-do)
 
-- [****](https://vortaron.github.io/english-for-designers/index.html#)
+- [**My Passion Project: Pilots 303**](https://vortaron.github.io/english-for-designers/index.html##-my-passion-project:-pilots-303)
 
-- [****](https://vortaron.github.io/english-for-designers/index.html#)
+- [**Abstract World of Music festival Kutná Hora**](https://vortaron.github.io/english-for-designers/index.html#abstract-world-of-music-festival-kutná-hora)
 
-- [****](https://vortaron.github.io/english-for-designers/index.html#)
+- [**Animation for School Festival**](https://vortaron.github.io/english-for-designers/index.html#animation-for-school-festival)
+
+- [**Drawing and Painting**](https://vortaron.github.io/english-for-designers/index.html#drawing-and-painting)
+
+- [**Product Photography**](https://vortaron.github.io/english-for-designers/index.html#product-photography)
 
 # My Projects
 
@@ -104,7 +108,7 @@ The aim of the exercise was to create a short animation as an invitation to a sc
 
 We were assigned the task of creating an animation for an upcoming school festival, where the school showcases its students' works. Eager to produce something unique, I came up with two ideas. The first involved a propaganda video criticizing another festival, but it was denied. Instead, I opted for the second idea: a simple fairytale-like story presented as a puppet show, depicting the creation of our school festival. Although challenging and time-consuming—I spent the entire Christmas holiday drawing assets—it was rewarding to see my work projected in the cinema. I am very proud of the final result.
 
-## Drawing and Painting (mostly in digital)
+## Drawing and Painting
 
 I started with drawing. Before diving into all this art stuff, I wanted to be a programmer. However, when I attended a programming school, I realized it wasn't really for me. During that time, I also discovered drawing through friends who were passionate about it. So, I became very interested, started drawing, and eventually decided to change my field to art, which then evolved into graphic design.
 
@@ -120,7 +124,7 @@ I like making fan art of things I really enjoy. I always try to challenge myself
 
 I enjoy exercising, but I don't do it as much as I want. Drawing people is tricky, but it's also a lot of fun for me. When I'm creating, I like using shades of gray because it helps me bring out different details in my work.
 
-## Product photography
+## Product Photography
 
 As a kid in elementary school, I attended a photography course, and I absolutely loved itttt. It was awesome, and with a friend of mine, we began dreaming about buying our own cameras. So, we did. We started taking pictures together, mostly of nature and architecture. Eventually, we moved on from it, but it stuck with me, and I found a way to integrate it into my graphic design work.
 
