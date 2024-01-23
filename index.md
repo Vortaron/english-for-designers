@@ -1,20 +1,47 @@
-# Oh, hi David
+# Hi! My name is Michael.
 
 ![me as Michal Plecháč](https://github.com/Vortaron/english-for-designers/assets/48156360/dcb76d14-8f48-4ecf-95a1-9ecf265e7434)
 
-### Profesional side of me
+# About me as a person
 
-Hi! I am a passionate graphic designer and creative who is always thinking of new ideas and challenges. My interests include art, culture, games, music and deep science concepts, especially science fiction. My dream is to one day bring something unique and innovative to the design world.
+Hi, I am Michael, and I consider myself a **very passionate person**. I really enjoy understanding and **thinking about our universe**. In that vein, I particularly like the theme of **space and sci-fi** because they often come with really interesting ideas. That's why I also enjoy **pop culture**, games, movies, music, books, and artistic human creations in general. **I appreciate what people have to say in their work**. I have also recently become **interested in psychology** and how the brain and people work. I can get **very obsessive** about things I am currently focusing on, and I can get very anxious from time to time. But I feel **that makes me more human** and defines who I am.
 
-### Me as a person with feelings & stuff
+## What I enjoy doing:
+- **Drawing** (traditional or digital)
+- **Playing video games** (mostly with my girlfriend)
+- **Exercising** (mostly cardio)
+- **Playing music** (guitar and piano)
+- **Watching movies and TV shows**
+- **Discovering new music**
+- **Learning about history and mythology**
+- **Exploring different cultures**
+- **Reading** (mostly sci-fi genre)
+- 
+# What I do as job
 
-Hi again, I am a weird person, but I consider it a good thing. I like to think about stuff, I really like space and sci-fi - I just really like cool ideas, even if they are not portrait that well. I really like popculture, games and artitic human creations. I became interested in psychology and how brain and people work. I am very axnious person and I like ordet in things and I am nervous when there is none (at least for some period time). I am consider myself very passionate about anything I am interested and I am enyoing learning about stuff. I get vey obscessive about 1 think I often forget about other things. But sometimes too much thinking is unhealthy and exxhausting, so nowdays I am trying to learn to also stay in the moment and enjoy life. Btw I also like to read (mostly sci-fi tho).
+At the moment, I'm primarily working as a freelancer. Previously, I spent a year creating social media posts for three different companies within a marketing agency. However, I decided to leave there for school and have recently resumed my search for potential jobs. Due to still being a student, I have mainly found part-time positions in different fields.
 
-### Content:
+As a designer, my focus is not explicitly on one thing, but I particularly enjoy inventing and designing. I utilize my skills in various areas to shape my vision, including creating typography, retouching and working with photography, taking photos, drawing illustrations, or shooting. Therefore, I am not afraid to apply these skills when needed. Lately, I've been trying to learn to recognize my limits and understand when I'm beyond what I am capable and willing to do, recognizing when I need someone else to contribute to the project.
 
-- [**Profesional side of me**](https://stolgeth.github.io/english-for-designers/about_me.html#about-me)
+## What I usually do:
 
-- [**Me as a person with feelings & stuff**](https://stolgeth.github.io/english-for-designers/about_me.html#what-usually-i-get-paid-for)
+- Create visual identities
+- Design posters for promotional materials
+- Craft posts for social media
+- Develop packaging for products
+- Design simple logos
+- Create business cards
+- Film and photograph
+- Design social media graphics
+- Create website designs
+- Animate
+- Draw storyboards
+
+## Content:
+
+- [**About me as a person**](https://stolgeth.github.io/english-for-designers/about_me.html#about-me-as-a-person)
+
+- [**# What I enjoy doing**](https://stolgeth.github.io/english-for-designers/about_me.html#-what-i-enjoy-doing)
 
 - [**My PASSION projetct**](https://stolgeth.github.io/english-for-designers/about_me.html#what-i-enjoy-to-spend-my-time-on)
 
