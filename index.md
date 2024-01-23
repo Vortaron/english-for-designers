@@ -16,7 +16,7 @@ Hi, I am Michael, and I consider myself a **very passionate person**. I really e
 - **Learning about history and mythology**
 - **Exploring different cultures**
 - **Reading** (mostly sci-fi genre)
-- 
+
 # What I do as job
 
 At the moment, I'm primarily working as a freelancer. Previously, I spent a year creating social media posts for three different companies within a marketing agency. However, I decided to leave there for school and have recently resumed my search for potential jobs. Due to still being a student, I have mainly found part-time positions in different fields.
